@@ -227,12 +227,12 @@ a:hover {
 
 #logo {
 	width: 197px;
-	height: 52px;
+	height: 160px;
 	display: block;
 	float: left;
 	cursor: pointer;
 	text-indent: -9999em;
-	background: url(../images/logo.png) no-repeat;
+	background: url(../images/omlogo.png) no-repeat;
 }
 
 
@@ -1366,7 +1366,7 @@ h1 {
 @media (-webkit-min-device-pixel-ratio: 2), (min-reso#lution: 192dpi) { 
 
 	#logo {
-		background-image: url(../images/logo@2x.png);
+		background-image: url(../images/omlogo.png);
 		background-size: cover;
 	}
 
